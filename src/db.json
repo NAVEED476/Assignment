@@ -1,0 +1,70 @@
+{
+  "Employees": [
+    {
+      "firstname": "naveed",
+      "lastname": "s",
+      "email": "s@gmail.com",
+      "phone": "1212121212",
+      "password": "123456",
+      "address": "aksjdf",
+      "city": "sfjba.df",
+      "country": ",mnf",
+      "id": 1
+    },
+    {
+      "firstname": "naveed",
+      "lastname": "s",
+      "email": "s@gmail.com",
+      "phone": "1212121212",
+      "password": "123456",
+      "address": "aksjdf",
+      "city": "sfjba.df",
+      "country": ",mnf",
+      "id": 2
+    },
+    {
+      "firstname": "naveed",
+      "lastname": "s",
+      "email": "s@gmail.com",
+      "phone": "1212121212",
+      "password": "123456",
+      "address": "aksjdf",
+      "city": "sfjba.df",
+      "country": ",mnf",
+      "id": 3
+    },
+    {
+      "firstname": "naveed",
+      "lastname": "s",
+      "email": "s@gmail.com",
+      "phone": "1212121212",
+      "password": "123456",
+      "address": "aksjdf",
+      "city": "sfjba.df",
+      "country": ",mnf",
+      "id": 4
+    },
+    {
+      "firstname": "naveed",
+      "lastname": "s",
+      "email": "s@gmail.com",
+      "phone": "1212121212",
+      "password": "123456",
+      "address": "aksjdf",
+      "city": "sfjba.df",
+      "country": ",mnf",
+      "id": 5
+    },
+    {
+      "firstname": "naveed",
+      "lastname": "s",
+      "email": "s@gmail.com",
+      "phone": "1212121212",
+      "password": "123456",
+      "address": "aksjdf",
+      "city": "sfjba.df",
+      "country": ",mnf",
+      "id": 6
+    }
+  ]
+}

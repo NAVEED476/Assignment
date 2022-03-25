@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(168, 184, 113);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#FormLayout {
+    display:flex;
+    flex-direction: row;
+    margin-left:35%;
+    width:50%;
+    padding:20px 50px 20px 20px;
+    border:1px solid black;
+}
+
+.textfieldstyles {
+    display: flex;
+    flex-direction: column;
+    width:400px;
+}
+
+.RadioBtnStyles,.CheckBoxesStyles {
+    display:flex;
+    flex-direction: column;
+    width:80%;
+}
+
+
+.submitBtn {
+    margin:auto;
+    width:50%;
+}
+
+.DisplayEmployeePropTags {
+    display:flex;
+    flex-direction: row;
+    width:80%;
+    height: 300px;
+    margin:auto;
+    overflow: scroll;
+    margin-bottom:30px;
+}
+
+.EmployeeDetailsHeading,.EmployeeForms{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color:#FF5722;
+}
