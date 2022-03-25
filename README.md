@@ -1,25 +1,15 @@
-# Employee Details App
+
 
 
 ## This clone is made with pure HTML, CSS and JavaScript,Reactjs and Library like Material UI, JSON-Server in this project.
 
 
-## Links Related to  project Demo
-
-[Project Demo Video Link](https://drive.google.com/file/d/13uX4VNeFj6QA9ARPmlN5YKVQ6uwVDPMS/view?usp=sharing)
-
-# Member
-   *  Kiran Kumar Medikurthy
-
-# Porfolios link:
-   * [Kiran Kumar Medikurthy Portfolios](https://kirankumar-medikurthy.github.io/)
 
 
 # Functionality
 * Main Functionalities Present in my App is :
     * Add Employee Detail into JSON-Sever
-    * Retrieving the data from the JSON-SERVER
-    * Edit the Data Present in the JSON-SERVER    
+
 # How To Use
 
 * First Clone or Download Zip file from the [GITHUB]();
@@ -35,14 +25,16 @@
 * When you start the Application, It will open a new window in the Browser
 
 * You can a **Employess Form** then You can start add employee details like
-    * Name
+    * First Name
+    * LastName
     * Email Address
     * Phone Number
-    * Date of Birth
-    * Gender
-    * Hobbies
+    * Password
+    * Address
+    * city
+    * country
 
-* On clicking the **SUBIT DETAILS BUTTON** The Employee Details have been stored in the **db.json** file present is **src directory**.
+* On clicking the **SUBMIT DETAILS BUTTON** The Employee Details have been stored in the **db.json** file present is **src directory**.
 
 * When you Scroll up a little bit, Where You can See **Employees Details**, This is the place you can see the Employee Details;
 
@@ -64,12 +56,6 @@
 
 
 
-# Some snapshots of how our App Looks Like: 
-
-## Employees Forms
-![Employee Forms](https://github.com/kirankumar-medikurthy/TericSoft-Assignment/blob/master/App-Images/EmployeeForm1.png?raw=true) 
-## Employees Details
-![Employees Details](https://github.com/kirankumar-medikurthy/TericSoft-Assignment/blob/master/App-Images/Employee-Details-2.png?raw=true);
 
 
 
