@@ -44,14 +44,12 @@
 * First i have gone through the Assignment Document.
 * I have visited the package links given in the Links and I read about the documentation of that **NPM PACKAGES** like 
     * [JSON-SERVER PACKAGE](https://www.npmjs.com/package/json-server)
-    * [FAKER](https://www.npmjs.com/package/faker);
+   
 *  I Have Started Creating the Employee Form So that User Can Enter Their Details
 *  After Completion of all Functionality of Creating Form then I started creating Display Employee Details;
 * I have succusfully Completed the Task
 
 
-
-***Thankyou so much for reading the blog.***
 
 
 

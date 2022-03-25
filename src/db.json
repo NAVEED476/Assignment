@@ -65,6 +65,61 @@
       "city": "sfjba.df",
       "country": ",mnf",
       "id": 6
+    },
+    {
+      "firstname": "Naveed",
+      "lastname": "shaik",
+      "email": "snaveed@gmail.com",
+      "phone": "1212121212",
+      "password": "1234567",
+      "address": "v.kota",
+      "city": "Chittoor",
+      "country": "India",
+      "id": 7
+    },
+    {
+      "firstname": "kiran",
+      "lastname": "m",
+      "email": "kiran@gmail.com",
+      "phone": "9090909090",
+      "password": "123456",
+      "address": "pileru",
+      "city": "ananathauram",
+      "country": "india",
+      "id": 8
+    },
+    {
+      "firstname": "hemanth",
+      "lastname": "kumar",
+      "email": "hemanth@gmail.com",
+      "phone": "9945674635",
+      "password": "123456",
+      "address": "2-45/9",
+      "city": "banglore",
+      "country": "india",
+      "id": 9
+    },
+    {
+      "firstname": "hemanth",
+      "lastname": "kumar",
+      "email": "hemanth@gmail.com",
+      "phone": "9945674635",
+      "password": "123456",
+      "address": "2-45/9",
+      "city": "banglore",
+      "country": "india",
+      "id": 10
+    },
+    {
+      "firstname": "hemanth",
+      "lastname": "kumar",
+      "email": "hemanth@gmail.com",
+      "phone": "9945674635",
+      "password": "123456",
+      "address": "2-45/9",
+      "city": "banglore",
+      "country": "india",
+      "id": 11
     }
   ]
 }

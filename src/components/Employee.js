@@ -39,7 +39,7 @@ export const Employee = () => {
 
     }
     else {
-      if(email.split("@")[1]==="gmail.com"){
+      if(email.split("@")[1]=="gmail.com"){
         fetch(`http://localhost:3001/Employees`, {
         method: "POST",
         body: JSON.stringify({
@@ -61,7 +61,11 @@ export const Employee = () => {
         alert("email is not valid")
       }
     }
+  
+
   }
+
+  
 
   /* HERE I AM GETTING THE EMPLOYEE DETAILS FROM THE DB.JSON */
   const getEmployees = () => {
