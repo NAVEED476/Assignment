@@ -15,7 +15,7 @@
 * First Clone or Download Zip file from the [GITHUB]();
 * Open the Clone Directory in the Online Editing Tools like Visual Studio code or Sublime Text etc.
 * Open Terminal go to the source directory named as src with help of cd(Change Directory)
-    * cd /home/kirankumar/Git_Repository/webfw11_024/InterViewProjectAssignments/tericsoft-assignment
+ w
 * Run **npm install or yarn** Inorder to download the dependencies for Employee Details projects
 
 * Run **json-server --port db.json** on the **src directory** To Run a JSON-SERVER in order to display details about the employees;
